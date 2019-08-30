@@ -1,0 +1,11 @@
+.tachado {
+    text-decoration: line-through;
+    color: lightslategrey;
+}
+
+.abs-center {
+    display: flex;
+    /*align-items: center;*/
+    justify-content: center;
+    min-height: 100vh;
+}
